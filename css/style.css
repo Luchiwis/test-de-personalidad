@@ -1,0 +1,14 @@
+.seccion form label{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.seccion{
+    border: 3px ridge gold;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}
